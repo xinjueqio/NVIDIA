@@ -101,6 +101,18 @@ class NvidiaFetcher:
         except:
             pass 
 
+        def is_old_notebook_dch(version):
+            # Check if version < 472.12
+            try:
+                parts = [int(x) for x in version.split('.')]
+                if len(parts) < 2: return False
+                major, minor = parts[0], parts[1]
+                if major < 472: return True
+                if major == 472 and minor < 12: return True
+                return False
+            except:
+                return False
+
         with open(filename, "w", encoding="utf-8") as f:
             f.write(f"# NVIDIA 驱动历史版本列表 (GTX 1080)\n")
             f.write(f"更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
@@ -115,27 +127,38 @@ class NvidiaFetcher:
             for d in drivers:
                 type_str = d['Type']
                 arch_str = "DCH" if d['IsDCH'] else "Standard"
-
-                # Helper to write an entry
-                def write_entry(platform_label, url):
-                    # Format: 
-                    # ### Version | Date | Arch | Type | Platform
-                    # [Download](url)
-                    # `url`
-                    
-                    # Header Line
-                    f.write(f"### {d['Version']} | {d['ReleaseDate']} | {arch_str} | {type_str} | {platform_label}\n")
-                    # Download Line
-                    f.write(f"> **下载**: [{url}]({url})\n\n")
-                    f.write("---\n\n")
-
-                # Output Desktop Entry
-                if d['DesktopURL'] != "N/A":
-                    write_entry("台式机", d['DesktopURL'])
+                version = d['Version']
                 
-                # Output Notebook Entry
-                if d['NotebookURL'] != "N/A":
-                    write_entry("笔记本", d['NotebookURL'])
+                # Fix Notebook DCH for old versions (remove -dch instead of hiding)
+                notebook_url = d['NotebookURL']
+                if d['IsDCH'] and is_old_notebook_dch(version) and notebook_url != "N/A":
+                    notebook_url = notebook_url.replace("-dch", "")
+                
+                # Determine platform string for header
+                platforms = []
+                if d['DesktopURL'] != "N/A": platforms.append("台式机")
+                if notebook_url != "N/A": platforms.append("笔记本")
+                
+                # If no platforms, skip
+                if not platforms:
+                    continue
+                    
+                platform_header = " & ".join(platforms)
+
+                # Header Line
+                f.write(f"### {version} | {d['ReleaseDate']} | {arch_str} | {type_str} | {platform_header}\n")
+                
+                # Download Lines
+                if d['DesktopURL'] != "N/A":
+                    f.write(f"> **台式机下载**: [{d['DesktopURL']}]({d['DesktopURL']})\n")
+                    # Add a spacer if notebook also exists
+                    if notebook_url != "N/A":
+                        f.write(">\n")
+                
+                if notebook_url != "N/A":
+                    f.write(f"> **笔记本下载**: [{notebook_url}]({notebook_url})\n")
+                
+                f.write("\n---\n\n")
             
         print(f"Saved results to {filename}")
 
@@ -185,7 +208,7 @@ def main():
     merged_drivers = fetcher.parse_and_merge(results_map)
     print(f"Total unique driver entries merged: {len(merged_drivers)}")
     
-    fetcher.save_to_markdown(merged_drivers, "h:/0.项目/nv/drivers_history.md")
+    fetcher.save_to_markdown(merged_drivers, "h:/0.项目/nv/README.md")
 
 if __name__ == "__main__":
     main()
