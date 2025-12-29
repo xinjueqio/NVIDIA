@@ -115,7 +115,7 @@ class NvidiaFetcher:
 
         with open(filename, "w", encoding="utf-8") as f:
             f.write(f"# NVIDIA 驱动历史版本列表 (GTX 1080)\n")
-            f.write(f"更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+
             
             if not drivers:
                 f.write("未找到驱动信息。\n")
