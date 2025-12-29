@@ -208,7 +208,7 @@ def main():
     merged_drivers = fetcher.parse_and_merge(results_map)
     print(f"Total unique driver entries merged: {len(merged_drivers)}")
     
-    fetcher.save_to_markdown(merged_drivers, "h:/0.项目/nv/README.md")
+    fetcher.save_to_markdown(merged_drivers, "README.md")
 
 if __name__ == "__main__":
     main()
