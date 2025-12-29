@@ -1,1 +1,36 @@
+name: Fetch NVIDIA Drivers
 
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight UTC
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  fetch-drivers:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Run Fetcher Script
+      run: |
+        python nvidia_fetcher.py
+        
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        # Check if there are changes before committing
+        if git diff --staged --quiet; then
+          echo "No changes to commit."
+        else
+          git commit -m "Update NVIDIA driver history [skip ci]"
+          git push
+        fi
