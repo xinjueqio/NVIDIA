@@ -110,8 +110,8 @@ class NvidiaFetcher:
                 return
 
             f.write(f"共找到 {len(drivers)} 个版本（已合并双端及 Studio 数据）。\n\n")
-            f.write("| 版本号 | 发布日期 | 架构 | 类型 | 平台 | 下载 |\n")
-            f.write("|---|---|---|---|---|---|\n")
+            f.write("| 版本号 | 发布日期 | 架构 | 类型 | 平台 & 下载 |\n")
+            f.write("|---|---|---|---|---|\n")
             
             for d in drivers:
                 type_str = d['Type']
@@ -119,11 +119,11 @@ class NvidiaFetcher:
 
                 # Output Desktop Row
                 if d['DesktopURL'] != "N/A":
-                    f.write(f"| {d['Version']} | {d['ReleaseDate']} | {arch_str} | {type_str} | 台式机 | [下载]({d['DesktopURL']})<br>{d['DesktopURL']} |\n")
+                    f.write(f"| {d['Version']} | {d['ReleaseDate']} | {arch_str} | {type_str} | **台式机**<br>[下载]({d['DesktopURL']})<br>{d['DesktopURL']} |\n")
                 
                 # Output Notebook Row
                 if d['NotebookURL'] != "N/A":
-                    f.write(f"| {d['Version']} | {d['ReleaseDate']} | {arch_str} | {type_str} | 笔记本 | [下载]({d['NotebookURL']})<br>{d['NotebookURL']} |\n")
+                    f.write(f"| {d['Version']} | {d['ReleaseDate']} | {arch_str} | {type_str} | **笔记本**<br>[下载]({d['NotebookURL']})<br>{d['NotebookURL']} |\n")
             
             f.write("\n")
         print(f"Saved results to {filename}")
