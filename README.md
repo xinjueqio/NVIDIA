@@ -1,5 +1,40 @@
-# NVIDIA 驱动历史版本列表 (GTX 1080)
-共找到 337 个版本（已合并双端及 Studio 数据）。
+# NVIDIA 驱动历史版本列表 (RTX 2060)
+共找到 275 个版本（已合并双端及 Studio 数据）。
+
+---
+
+### 591.74 | 2026-1-5 | DCH | Game Ready | 台式机 & 笔记本
+> **台式机下载**: [https://cn.download.nvidia.com/Windows/591.74/591.74-desktop-win10-win11-64bit-international-dch-whql.exe](https://cn.download.nvidia.com/Windows/591.74/591.74-desktop-win10-win11-64bit-international-dch-whql.exe)
+>
+> **笔记本下载**: [https://cn.download.nvidia.com/Windows/591.74/591.74-notebook-win10-win11-64bit-international-dch-whql.exe](https://cn.download.nvidia.com/Windows/591.74/591.74-notebook-win10-win11-64bit-international-dch-whql.exe)
+
+---
+
+### 591.74 | 2026-1-5 | DCH | Studio | 台式机 & 笔记本
+> **台式机下载**: [https://cn.download.nvidia.com/Windows/591.74/591.74-desktop-win10-win11-64bit-international-nsd-dch-whql.exe](https://cn.download.nvidia.com/Windows/591.74/591.74-desktop-win10-win11-64bit-international-nsd-dch-whql.exe)
+>
+> **笔记本下载**: [https://cn.download.nvidia.com/Windows/591.74/591.74-notebook-win10-win11-64bit-international-nsd-dch-whql.exe](https://cn.download.nvidia.com/Windows/591.74/591.74-notebook-win10-win11-64bit-international-nsd-dch-whql.exe)
+
+---
+
+### 591.59 | 2025-12-18 | DCH | Game Ready | 台式机 & 笔记本
+> **台式机下载**: [https://cn.download.nvidia.com/Windows/591.59/591.59-desktop-win10-win11-64bit-international-dch-whql.exe](https://cn.download.nvidia.com/Windows/591.59/591.59-desktop-win10-win11-64bit-international-dch-whql.exe)
+>
+> **笔记本下载**: [https://cn.download.nvidia.com/Windows/591.59/591.59-notebook-win10-win11-64bit-international-dch-whql.exe](https://cn.download.nvidia.com/Windows/591.59/591.59-notebook-win10-win11-64bit-international-dch-whql.exe)
+
+---
+
+### 591.44 | 2025-12-4 | DCH | Game Ready | 台式机 & 笔记本
+> **台式机下载**: [https://cn.download.nvidia.com/Windows/591.44/591.44-desktop-win10-win11-64bit-international-dch-whql.exe](https://cn.download.nvidia.com/Windows/591.44/591.44-desktop-win10-win11-64bit-international-dch-whql.exe)
+>
+> **笔记本下载**: [https://cn.download.nvidia.com/Windows/591.44/591.44-notebook-win10-win11-64bit-international-dch-whql.exe](https://cn.download.nvidia.com/Windows/591.44/591.44-notebook-win10-win11-64bit-international-dch-whql.exe)
+
+---
+
+### 591.44 | 2025-12-4 | DCH | Studio | 台式机 & 笔记本
+> **台式机下载**: [https://cn.download.nvidia.com/Windows/591.44/591.44-desktop-win10-win11-64bit-international-nsd-dch-whql.exe](https://cn.download.nvidia.com/Windows/591.44/591.44-desktop-win10-win11-64bit-international-nsd-dch-whql.exe)
+>
+> **笔记本下载**: [https://cn.download.nvidia.com/Windows/591.44/591.44-notebook-win10-win11-64bit-international-nsd-dch-whql.exe](https://cn.download.nvidia.com/Windows/591.44/591.44-notebook-win10-win11-64bit-international-nsd-dch-whql.exe)
 
 ---
 
@@ -924,6 +959,13 @@
 > **台式机下载**: [https://cn.download.nvidia.com/Windows/472.84/472.84-desktop-win10-win11-64bit-international-nsd-dch-whql.exe](https://cn.download.nvidia.com/Windows/472.84/472.84-desktop-win10-win11-64bit-international-nsd-dch-whql.exe)
 >
 > **笔记本下载**: [https://cn.download.nvidia.com/Windows/472.84/472.84-notebook-win10-win11-64bit-international-nsd-dch-whql.exe](https://cn.download.nvidia.com/Windows/472.84/472.84-notebook-win10-win11-64bit-international-nsd-dch-whql.exe)
+
+---
+
+### 472.75 | 2021-12-3 | DCH | Studio | 台式机 & 笔记本
+> **台式机下载**: [https://cn.download.nvidia.com/Windows/472.75/472.75-desktop-win10-win11-64bit-international-nsd-dch-whql.exe](https://cn.download.nvidia.com/Windows/472.75/472.75-desktop-win10-win11-64bit-international-nsd-dch-whql.exe)
+>
+> **笔记本下载**: [https://cn.download.nvidia.com/Windows/472.75/472.75-notebook-win10-win11-64bit-international-nsd-dch-whql.exe](https://cn.download.nvidia.com/Windows/472.75/472.75-notebook-win10-win11-64bit-international-nsd-dch-whql.exe)
 
 ---
 
@@ -1883,482 +1925,6 @@
 > **台式机下载**: [http://cn.download.nvidia.com/Windows/417.71/417.71-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/417.71/417.71-desktop-win10-64bit-international-whql.exe)
 >
 > **笔记本下载**: [http://cn.download.nvidia.com/Windows/417.71/417.71-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/417.71/417.71-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 417.35 | 2018-12-12 | DCH | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/417.35/417.35-desktop-win10-64bit-international-dch-whql-rp.exe](http://cn.download.nvidia.com/Windows/417.35/417.35-desktop-win10-64bit-international-dch-whql-rp.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/417.35/417.35-notebook-win10-64bit-international-whql-rp.exe](http://cn.download.nvidia.com/Windows/417.35/417.35-notebook-win10-64bit-international-whql-rp.exe)
-
----
-
-### 417.35 | 2018-12-12 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/417.35/417.35-desktop-win10-64bit-international-whql-rp.exe](http://cn.download.nvidia.com/Windows/417.35/417.35-desktop-win10-64bit-international-whql-rp.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/417.35/417.35-notebook-win10-64bit-international-whql-rp.exe](http://cn.download.nvidia.com/Windows/417.35/417.35-notebook-win10-64bit-international-whql-rp.exe)
-
----
-
-### 417.22 | 2018-12-3 | DCH | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/417.22/417.22-desktop-win10-64bit-international-dch-whql.exe](http://cn.download.nvidia.com/Windows/417.22/417.22-desktop-win10-64bit-international-dch-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/417.22/417.22-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/417.22/417.22-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 417.22 | 2018-12-3 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/417.22/417.22-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/417.22/417.22-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/417.22/417.22-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/417.22/417.22-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 417.01 | 2018-11-26 | DCH | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/417.01/417.01-desktop-win10-64bit-international-dch-whql-rp.exe](http://cn.download.nvidia.com/Windows/417.01/417.01-desktop-win10-64bit-international-dch-whql-rp.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/417.01/417.01-notebook-win10-64bit-international-whql-rp.exe](http://cn.download.nvidia.com/Windows/417.01/417.01-notebook-win10-64bit-international-whql-rp.exe)
-
----
-
-### 417.01 | 2018-11-26 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/417.01/417.01-desktop-win10-64bit-international-whql-rp.exe](http://cn.download.nvidia.com/Windows/417.01/417.01-desktop-win10-64bit-international-whql-rp.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/417.01/417.01-notebook-win10-64bit-international-whql-rp.exe](http://cn.download.nvidia.com/Windows/417.01/417.01-notebook-win10-64bit-international-whql-rp.exe)
-
----
-
-### 416.94 | 2018-11-13 | DCH | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/416.94/416.94-desktop-win10-64bit-international-dch-whql.exe](http://cn.download.nvidia.com/Windows/416.94/416.94-desktop-win10-64bit-international-dch-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/416.94/416.94-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/416.94/416.94-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 416.94 | 2018-11-13 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/416.94/416.94-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/416.94/416.94-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/416.94/416.94-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/416.94/416.94-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 416.81 | 2018-11-8 | DCH | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/416.81/416.81-desktop-win10-64bit-international-dch-whql.exe](http://cn.download.nvidia.com/Windows/416.81/416.81-desktop-win10-64bit-international-dch-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/416.81/416.81-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/416.81/416.81-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 416.81 | 2018-11-8 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/416.81/416.81-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/416.81/416.81-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/416.81/416.81-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/416.81/416.81-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 416.34 | 2018-10-11 | DCH | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/416.34/416.34-desktop-win10-64bit-international-dch-whql.exe](http://cn.download.nvidia.com/Windows/416.34/416.34-desktop-win10-64bit-international-dch-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/416.34/416.34-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/416.34/416.34-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 416.34 | 2018-10-11 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/416.34/416.34-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/416.34/416.34-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/416.34/416.34-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/416.34/416.34-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 416.16 | 2018-10-4 | DCH | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/416.16/416.16-desktop-win10-64bit-international-dch-whql.exe](http://cn.download.nvidia.com/Windows/416.16/416.16-desktop-win10-64bit-international-dch-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/416.16/416.16-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/416.16/416.16-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 416.16 | 2018-10-4 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/416.16/416.16-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/416.16/416.16-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/416.16/416.16-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/416.16/416.16-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 411.70 | 2018-9-27 | DCH | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/411.70/411.70-desktop-win10-64bit-international-dch-whql.exe](http://cn.download.nvidia.com/Windows/411.70/411.70-desktop-win10-64bit-international-dch-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/411.70/411.70-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/411.70/411.70-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 411.70 | 2018-9-27 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/411.70/411.70-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/411.70/411.70-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/411.70/411.70-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/411.70/411.70-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 411.63 | 2018-9-19 | DCH | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/411.63/411.63-desktop-win10-64bit-international-dch-whql.exe](http://cn.download.nvidia.com/Windows/411.63/411.63-desktop-win10-64bit-international-dch-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/411.63/411.63-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/411.63/411.63-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 411.63 | 2018-9-19 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/411.63/411.63-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/411.63/411.63-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/411.63/411.63-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/411.63/411.63-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 399.24 | 2018-9-10 | DCH | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/399.24/399.24-desktop-win10-64bit-international-dch-whql.exe](http://cn.download.nvidia.com/Windows/399.24/399.24-desktop-win10-64bit-international-dch-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/399.24/399.24-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/399.24/399.24-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 399.24 | 2018-9-10 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/399.24/399.24-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/399.24/399.24-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/399.24/399.24-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/399.24/399.24-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 399.07 | 2018-8-27 | DCH | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/399.07/399.07-desktop-win10-64bit-international-dch-whql.exe](http://cn.download.nvidia.com/Windows/399.07/399.07-desktop-win10-64bit-international-dch-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/399.07/399.07-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/399.07/399.07-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 399.07 | 2018-8-27 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/399.07/399.07-desktop-win10-64bit-international-whql-rp.exe](http://cn.download.nvidia.com/Windows/399.07/399.07-desktop-win10-64bit-international-whql-rp.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/399.07/399.07-notebook-win10-64bit-international-whql-rp.exe](http://cn.download.nvidia.com/Windows/399.07/399.07-notebook-win10-64bit-international-whql-rp.exe)
-
----
-
-### 398.82 | 2018-8-1 | DCH | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/398.82/398.82-desktop-win10-64bit-international-dch-whql.exe](http://cn.download.nvidia.com/Windows/398.82/398.82-desktop-win10-64bit-international-dch-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/398.82/398.82-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/398.82/398.82-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 398.82 | 2018-8-1 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/398.82/398.82-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/398.82/398.82-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/398.82/398.82-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/398.82/398.82-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 398.36 | 2018-6-26 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/398.36/398.36-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/398.36/398.36-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/398.36/398.36-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/398.36/398.36-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 398.11 | 2018-6-5 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/398.11/398.11-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/398.11/398.11-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/398.11/398.11-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/398.11/398.11-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 397.93 | 2018-5-24 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/397.93/397.93-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/397.93/397.93-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/397.93/397.93-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/397.93/397.93-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 397.64 | 2018-5-9 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/397.64/397.64-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/397.64/397.64-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/397.64/397.64-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/397.64/397.64-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 391.35 | 2018-3-27 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/391.35/391.35-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/391.35/391.35-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/391.35/391.35-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/391.35/391.35-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 391.24 | 2018-3-20 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/391.24/391.24-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/391.24/391.24-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/391.24/391.24-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/391.24/391.24-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 391.01 | 2018-2-26 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/391.01/391.01-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/391.01/391.01-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/391.01/391.01-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/391.01/391.01-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 390.77 | 2018-1-29 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/390.77/390.77-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/390.77/390.77-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/390.77/390.77-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/390.77/390.77-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 390.65 | 2018-1-8 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/390.65/390.65-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/390.65/390.65-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/390.65/390.65-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/390.65/390.65-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 388.71 | 2017-12-20 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/388.71/388.71-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/388.71/388.71-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/388.71/388.71-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/388.71/388.71-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 388.59 | 2017-12-7 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/388.59/388.59-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/388.59/388.59-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/388.59/388.59-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/388.59/388.59-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 388.43 | 2017-11-30 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/388.43/388.43-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/388.43/388.43-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/388.43/388.43-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/388.43/388.43-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 388.31 | 2017-11-15 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/388.31/388.31-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/388.31/388.31-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/388.31/388.31-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/388.31/388.31-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 388.13 | 2017-10-30 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/388.13/388.13-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/388.13/388.13-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/388.13/388.13-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/388.13/388.13-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 388.00 | 2017-10-23 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/388.00/388.00-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/388.00/388.00-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/388.00/388.00-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/388.00/388.00-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 387.92 | 2017-10-9 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/387.92/387.92-desktop-win10-64bit-international-rs3-whql.exe](http://cn.download.nvidia.com/Windows/387.92/387.92-desktop-win10-64bit-international-rs3-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/387.92/387.92-notebook-win10-64bit-international-rs3-whql.exe](http://cn.download.nvidia.com/Windows/387.92/387.92-notebook-win10-64bit-international-rs3-whql.exe)
-
----
-
-### 385.69 | 2017-9-21 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/385.69/385.69-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/385.69/385.69-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/385.69/385.69-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/385.69/385.69-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 385.41 | 2017-8-24 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/385.41/385.41-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/385.41/385.41-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/385.41/385.41-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/385.41/385.41-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 385.28 | 2017-8-14 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/385.28/385.28-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/385.28/385.28-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/385.28/385.28-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/385.28/385.28-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 384.94 | 2017-7-24 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/384.94/384.94-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/384.94/384.94-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/384.94/384.94-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/384.94/384.94-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 384.76 | 2017-6-29 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/384.76/384.76-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/384.76/384.76-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/384.76/384.76-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/384.76/384.76-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 382.53 | 2017-6-9 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/382.53/382.53-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/382.53/382.53-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/382.53/382.53-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/382.53/382.53-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 382.33 | 2017-5-22 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://us.download.nvidia.com/Windows/382.33/382.33-desktop-win10-64bit-international-whql.exe](http://us.download.nvidia.com/Windows/382.33/382.33-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://us.download.nvidia.com/Windows/382.33/382.33-notebook-win10-64bit-international-whql.exe](http://us.download.nvidia.com/Windows/382.33/382.33-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 382.05 | 2017-5-4 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/382.05/382.05-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/382.05/382.05-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/382.05/382.05-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/382.05/382.05-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 381.89 | 2017-4-25 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://us.download.nvidia.com/Windows/381.89/381.89-desktop-win10-64bit-international-whql.exe](http://us.download.nvidia.com/Windows/381.89/381.89-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://us.download.nvidia.com/Windows/381.89/381.89-notebook-win10-64bit-international-whql.exe](http://us.download.nvidia.com/Windows/381.89/381.89-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 381.65 | 2017-4-6 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/381.65/381.65-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/381.65/381.65-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/381.65/381.65-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/381.65/381.65-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 378.92 | 2017-3-20 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/378.92/378.92-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/378.92/378.92-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/378.92/378.92-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/378.92/378.92-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 378.78 | 2017-3-9 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/378.78/378.78-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/378.78/378.78-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/378.78/378.78-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/378.78/378.78-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 378.66 | 2017-2-14 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/378.66/378.66-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/378.66/378.66-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/378.66/378.66-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/378.66/378.66-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 378.49 | 2017-1-24 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/378.49/378.49-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/378.49/378.49-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/378.49/378.49-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/378.49/378.49-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 376.33 | 2016-12-14 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/376.33/376.33-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/376.33/376.33-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/376.33/376.33-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/376.33/376.33-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 376.19 | 2016-12-5 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/376.19/376.19-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/376.19/376.19-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/376.19/376.19-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/376.19/376.19-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 376.09 | 2016-11-28 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/376.09/376.09-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/376.09/376.09-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/376.09/376.09-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/376.09/376.09-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 375.95 | 2016-11-18 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/375.95/375.95-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/375.95/375.95-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/375.95/375.95-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/375.95/375.95-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 375.70 | 2016-10-28 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/375.70/375.70-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/375.70/375.70-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/375.70/375.70-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/375.70/375.70-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 375.63 | 2016-10-23 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/375.63/375.63-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/375.63/375.63-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/375.63/375.63-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/375.63/375.63-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 373.06 | 2016-10-6 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/373.06/373.06-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/373.06/373.06-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/373.06/373.06-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/373.06/373.06-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 372.90 | 2016-9-21 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/372.90/372.90-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/372.90/372.90-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/372.90/372.90-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/372.90/372.90-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 372.70 | 2016-8-30 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/372.70/372.70-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/372.70/372.70-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/372.70/372.70-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/372.70/372.70-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 372.54 | 2016-8-15 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/372.54/372.54-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/372.54/372.54-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/372.54/372.54-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/372.54/372.54-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 368.81 | 2016-7-14 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/368.81/368.81-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/368.81/368.81-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/368.81/368.81-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/368.81/368.81-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 368.69 | 2016-7-6 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/368.69/368.69-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/368.69/368.69-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/368.69/368.69-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/368.69/368.69-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 368.39 | 2016-6-7 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/368.39/368.39-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/368.39/368.39-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/368.39/368.39-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/368.39/368.39-notebook-win10-64bit-international-whql.exe)
-
----
-
-### 368.25 | 2016-5-26 | Standard | Game Ready | 台式机 & 笔记本
-> **台式机下载**: [http://cn.download.nvidia.com/Windows/368.25/368.25-desktop-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/368.25/368.25-desktop-win10-64bit-international-whql.exe)
->
-> **笔记本下载**: [http://cn.download.nvidia.com/Windows/368.25/368.25-notebook-win10-64bit-international-whql.exe](http://cn.download.nvidia.com/Windows/368.25/368.25-notebook-win10-64bit-international-whql.exe)
 
 ---
 
