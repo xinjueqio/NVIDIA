@@ -8,9 +8,9 @@ from datetime import datetime
 # Configuration
 BASE_URL = "https://gfwsl.geforce.cn/services_toolkit/services/com/nvidia/services/AjaxDriverService.php"
 
-# IDs
-ID_DESKTOP = {"psid": 101, "pfid": 815} # GTX 1080
-ID_NOTEBOOK = {"psid": 102, "pfid": 819} # GTX 1080 Notebook
+# IDs - RTX 2060
+ID_DESKTOP = {"psid": 107, "pfid": 887}  # RTX 2060
+ID_NOTEBOOK = {"psid": 108, "pfid": 906}  # RTX 2060 Notebook
 
 class NvidiaFetcher:
     def __init__(self):
@@ -114,7 +114,7 @@ class NvidiaFetcher:
                 return False
 
         with open(filename, "w", encoding="utf-8") as f:
-            f.write(f"# NVIDIA 驱动历史版本列表 (GTX 1080)\n")
+            f.write(f"# NVIDIA 驱动历史版本列表 (RTX 2060)\n")
 
             
             if not drivers:
