@@ -1,5 +1,19 @@
 # NVIDIA 驱动历史版本列表 (RTX 2060)
-共找到 277 个版本（已合并双端及 Studio 数据）。
+共找到 279 个版本（已合并双端及 Studio 数据）。
+
+---
+
+### 595.79 | 2026-3-10 | DCH | Game Ready | 台式机 & 笔记本
+> **台式机下载**: [https://cn.download.nvidia.com/Windows/595.79/595.79-desktop-win10-win11-64bit-international-dch-whql.exe](https://cn.download.nvidia.com/Windows/595.79/595.79-desktop-win10-win11-64bit-international-dch-whql.exe)
+>
+> **笔记本下载**: [https://cn.download.nvidia.com/Windows/595.79/595.79-notebook-win10-win11-64bit-international-dch-whql.exe](https://cn.download.nvidia.com/Windows/595.79/595.79-notebook-win10-win11-64bit-international-dch-whql.exe)
+
+---
+
+### 595.79 | 2026-3-10 | DCH | Studio | 台式机 & 笔记本
+> **台式机下载**: [https://cn.download.nvidia.com/Windows/595.79/595.79-desktop-win10-win11-64bit-international-nsd-dch-whql.exe](https://cn.download.nvidia.com/Windows/595.79/595.79-desktop-win10-win11-64bit-international-nsd-dch-whql.exe)
+>
+> **笔记本下载**: [https://cn.download.nvidia.com/Windows/595.79/595.79-notebook-win10-win11-64bit-international-nsd-dch-whql.exe](https://cn.download.nvidia.com/Windows/595.79/595.79-notebook-win10-win11-64bit-international-nsd-dch-whql.exe)
 
 ---
 
